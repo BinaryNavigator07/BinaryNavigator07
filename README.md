@@ -40,6 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/umair-warraich-07/umair-warraich-07/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/umair-warraich-07/umair-warraich-07/output/snake.svg" alt="Snake animation" />
 
 ###
