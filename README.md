@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
 <h3 align="center">A passionate Python Enthusiast building LLMs & RAG</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umair-warraich-07" alt="umair-warraich-07" /></a> </p>
-
 - 🔭 I’m currently workingg on [LMA-Chat-bot](https://github.com/umair-warraich-07/LLMA-Chat-bot)
 
 - 🌱 I’m currently learning **Advanced Python, NLP techniques**
