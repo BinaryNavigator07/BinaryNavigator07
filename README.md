@@ -1,11 +1,4 @@
 <h3 align="center">Hi 👋there! I'm Umair, a freelance Python developer specializing in LLM and RAG projects. Let's collaborate and bring your ideas to life!</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=umair-warraich-07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
