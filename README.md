@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋there! I'm Umair, a freelance Python developer specializing in LLM and RAG projects. Let's collaborate and bring your ideas to life!</h3>
+<h3 align="center">Hi 👋there! I'm Umair, a Python developer specializing in LLM and RAG projects. Let's collaborate and bring your ideas to life!</h3>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
