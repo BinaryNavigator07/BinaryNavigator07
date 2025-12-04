@@ -8,9 +8,3 @@
 - Email: **umaiesajid@gmail.com**
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinaryNavigator07&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryNavigator07&layout=compact&theme=tokyonight" height="150" />
-</p>
-
