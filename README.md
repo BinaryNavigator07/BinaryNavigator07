@@ -1,8 +1,8 @@
 ###
 
 <div align="center">
-    <a href="https://github.com/BadarNawaz33?tab=followers">
-    <img src="https://img.shields.io/github/followers/BinaryNavigator07?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/BinaryNavigator07">
+    <img src="https://komarev.com/ghpvc/?username=BinaryNavigator07&label=Profile%20views&color=0e6e55&style=flat" alt="Profile Views" />
   </a>
 </div>
 
